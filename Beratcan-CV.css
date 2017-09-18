@@ -1,0 +1,41 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+}
+body {
+	background-color: lightgray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+    font-family: Brush Script Std, Brush Script MT, cursive;
+    font-size: 25px;
+}
+h1 {
+	text-align: center;
+}
+#profile_picture {
+	padding: 25px;
+	padding-top: 170px;
+	float:right;
+	width: 288px;
+	height: 288px;
+	border-radius: 50%;
+}
+.unorderedList {
+    padding-left: 30px;
+    display: inline-block;
+}
+.sammanfattning {
+	padding-top: 40px;
+}
+hr {
+    border: none;
+    height: 5px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+.navigeringhöger {
+    float: right;
+}
